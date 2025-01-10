@@ -1,5 +1,5 @@
 import random
-""" 
+
 # edit this list - get more from Chat GPT
 words = [
     {"spanish": "el", "english": "the"},
@@ -48,4 +48,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-"""
