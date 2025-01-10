@@ -1,4 +1,4 @@
- """
+ 
 import os
 import shutil
 
@@ -34,4 +34,3 @@ if __name__ == "__main__":
     else:
         print("Invalid folder path. Please ensure the path is correct and try again.")
 
-"""
