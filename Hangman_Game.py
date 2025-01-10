@@ -1,4 +1,4 @@
-"""
+
 import random
 
 # List of words to guess
@@ -33,4 +33,4 @@ if '_' not in word_display:
 else:
     print("You ran out of attempts. The word was: " + chosen_word)
     print("You lost!")
-"""
+
