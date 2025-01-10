@@ -1,4 +1,4 @@
-"""
+
 # List of quiz questions. Each question is a dictionary.
 questions = [
     {
@@ -39,5 +39,3 @@ def run_quiz(questions):
 
 # Run the quiz
 run_quiz(questions)
-
-"""
