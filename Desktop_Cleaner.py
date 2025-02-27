@@ -27,7 +27,7 @@ def clean_folder(folder_path):
 
 if __name__ == "__main__":
     print("Desktop Cleaner Script")
-    folder_path = r"C:\Users\uzayv\OneDrive\Resimler\Ekran Görüntüleri"
+    folder_path = #{write your folder path}
     if os.path.isdir(folder_path):
         clean_folder(folder_path)
         print("Cleaning complete.")
